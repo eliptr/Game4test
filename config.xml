@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
+ <plugin name="cordova-plugin-fullscreen" />
+ <preference name="Fullscreen" value="true" />
+ <preference name="DisallowOverscroll" value="true" />
+ <preference name="StatusBarOverlaysWebView" value="true" />
+ <plugin name="cordova-plugin-statusbar" src="npm" />
+ <gap:plugin name="com.phonegap.plugin.statusbar" value="true" />
+
+
+
+</widget>
