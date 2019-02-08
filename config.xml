@@ -4,6 +4,9 @@
  <preference name="Fullscreen" value="true" />
  <preference name="DisallowOverscroll" value="true" />
  <preference name="StatusBarOverlaysWebView" value="true" />
+ <name>Game 4</name>
+ <icon src="" />
+
 
 
 
