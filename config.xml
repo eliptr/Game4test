@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.eli.game4" version="2.25" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.eli.game4test" version="2.25" xmlns="http://www.w3.org/ns/widgets">
  <plugin name="cordova-plugin-fullscreen" />
  <preference name="Fullscreen" value="true" />
  <preference name="DisallowOverscroll" value="true" />
